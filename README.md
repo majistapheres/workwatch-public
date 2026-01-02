@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="workwatch-logo.png" alt="WorkWatch Logo" width="400">
+</p>
+
 # WorkWatch - Gamified Workforce Management
 
 > **Own your productivity tools. Stop renting.**
